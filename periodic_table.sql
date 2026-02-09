@@ -1,0 +1,1 @@
+-- paste the contents of the periodic_table.sql here (or copy file in)
